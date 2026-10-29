@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="L'Alternative Fabrique — des outils sobres pour reprendre le pouvoir d'agir" width="100%">
-</p>
-
 # L'Alternative Fabrique
 
 Much of the software a small European organisation depends on is hosted outside
@@ -24,12 +20,6 @@ repositories below are the technical foundations we maintain in the open.
 | [packages](https://github.com/lalternativefabrique/packages) | Shared Go and npm packages used across our applications |
 
 ## From foundations to products
-
-<p align="center">
-  <a href="https://cortext.lalter.fr/decouvrir"><img src="assets/cortext.svg" alt="Cortext" width="72"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://lalter.fr"><img src="assets/lalter.png" alt="L'Alter" width="72"></a>
-</p>
 
 [**Cortext**](https://cortext.lalter.fr/decouvrir) is the agent runtime behind
 [**L'Alter**](https://lalter.fr). It declares agents, gives them tools and
