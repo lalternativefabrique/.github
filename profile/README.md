@@ -11,6 +11,7 @@ repositories below are the technical foundations we maintain in the open.
 | Repository | What it is |
 | --- | --- |
 | [sklp](https://github.com/lalternativefabrique/sklp) | Rootless development, CI and deployment supervisor for single-node and multi-node stacks (BSL 1.1) |
+| [cortex](https://github.com/lalternativefabrique/cortex) | Go SDK for building and running agents with tools, memory and MCP (BSL 1.1) |
 | [skt](https://github.com/lalternativefabrique/skt) | Toolchain manager for pinned runtimes and CLIs — no shims, no global state |
 | [stack](https://github.com/lalternativefabrique/stack) | Scaffolder for a Go DDD backend and TanStack application, wired to the `sklp` workflow |
 | [eventkit](https://github.com/lalternativefabrique/eventkit) | Go primitives for event-driven, event-sourced and CQRS applications |
